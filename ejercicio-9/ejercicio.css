@@ -1,0 +1,22 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h3{
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+}
+.fecha{
+    font-size: 15px;
+    color: gray;
+}
+.salida{
+    color: red;
+}
+.ingreso{
+    color: green;
+}

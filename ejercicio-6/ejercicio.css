@@ -1,0 +1,34 @@
+body{
+    font-size: 30px;
+    color: white;
+}
+#manzana{
+    background-color: #a3040c;
+}
+#banana{
+    background-color: #f0b802;
+}
+#sandia{
+    background-color: #4a6d2a;
+}
+#melon{
+    background-color: #9fc940;
+}
+#naranja{
+    background-color: #e1651b;
+}
+#cereza{
+    background-color: #720309;
+}
+#uva{
+    background-color: #1d1d2a;
+}
+#kiwi{
+    background-color: #a7d149;
+}
+#mandarina{
+    background-color: #f09336 ;
+}
+#coco{
+    background-color: #80461d;
+}

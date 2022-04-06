@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+}
+#leila{
+    color: #7E3F8F;
+}
+#programadora{
+    color: #81559B;
+}
+#acariciadora{
+    color: #81559B;
+}
+#jugadora{
+    color: #8FAD88;
+}
+body{
+    background-color: #212121;
+    color: #FAFAFA;
+}

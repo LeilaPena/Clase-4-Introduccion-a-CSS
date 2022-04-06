@@ -1,0 +1,21 @@
+body{
+    color: gray;
+    font-family: courier;
+}
+#celeste{
+    color: cadetblue;
+    text-decoration: none;
+}
+h1{
+    font-family: monospace;
+}
+#primer{
+    font-style: italic;
+}
+#segundo{
+    font-weight: bold;
+}
+#tercer{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
